@@ -57,13 +57,8 @@ Self-Confidence Scale :
 
 | Skill | Associated Project |
 |------|------------------|
-| Capture The Flag (CTF) Techniques | [CTF Walkthrough](#) |
-| Vulnerability Scanning & Assessment | [Vulnerability Assessment with Nessus](#) |
-| Web Application Penetration Testing | [Web App Pentest with Burp Suite](#) |
-| Python Scripting & Automation | [Log Parsing with Python](#) |
-| Android Security Testing | [Android Pentesting Lab](#) |
-| Malware Analysis (Basic) | [Static APK Analysis](#) |
-| Reverse Engineering | [Smali & DEX Analysis](#) |
+| Vulnerability Scanning | [Vulnerability Assessment with Nessus](#) |
+| Log Analysis (Basic) | [Static APK Analysis](#) |
 
 ---
 
@@ -91,9 +86,8 @@ Self-Confidence Scale :
 ---
 
 ## 📜 Certifications
-- [Pre-Security_2026]([https://tryhackme.com/path/outline/presecurity](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QEUH9RYIGW.pdf))
+- [Pre-Security_(2026)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QEUH9RYIGW.pdf)
 - [QWP](#)
-- [![Security+](https://img.shields.io/badge/Security%2B-red?style=flat)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QEUH9RYIGW.pdf)
 
 ---
 
