@@ -28,7 +28,7 @@ I am passionate about cybersecurity and committed to continuously developing my 
 | Arabic | scale-2 |
 | Javanese | scale-3 |
 
-
+--
 | Computer Language | self-confidence scale |
 |-------------------|:------------------:|
 | SQL | scale-4 |
@@ -37,7 +37,7 @@ I am passionate about cybersecurity and committed to continuously developing my 
 | CSS | scale-1 |
 | javascript | scale-1 |
 
-
+--
 
 Self-Confidence Scale :
 
@@ -67,11 +67,28 @@ Self-Confidence Scale :
 
 ---
 
-## 📚 Projects
-- 🔍 CTF Writeups
-- 🛡️ Web Penetration Testing Labs
-- 🤖 Python Automation Scripts
-- 📱 Android Security Testing
+## 🧰 Tools
+
+### Operating Systems & Virtualization
+![Linux](https://img.shields.io/badge/Linux-yellow?style=flat)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-blue?style=flat)
+![VMware](https://img.shields.io/badge/VMware-grey?style=flat)
+
+---
+
+## 📜 Certifications
+![Security+](https://img.shields.io/badge/Security%2B-red?style=flat)
+
+---
+
+## 🚀 Projects
+
+- [CTF Walkthrough](#) ![status](https://img.shields.io/badge/status-done-brightgreen)
+- [Vulnerability Assessment and Management with Nessus](#) ![status](https://img.shields.io/badge/status-done-brightgreen)
+- [Web App Pentest with Burp Suite](#) ![status](https://img.shields.io/badge/status-done-brightgreen)
+- [Log Parsing and Alert Automation with Python](#) ![status](https://img.shields.io/badge/status-done-brightgreen)
+- Android Pentesting Lab (AVD + Burp + Frida) ![status](https://img.shields.io/badge/status-processing-orange)
+- Static APK Malware Analysis (MobSF + JADX) ![status](https://img.shields.io/badge/status-not--started-lightgrey)
 
 ---
 
