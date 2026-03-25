@@ -57,8 +57,8 @@ Self-Confidence Scale :
 
 | Skill | Associated Project |
 |------|------------------|
-| Vulnerability Scanning | [Vulnerability Assessment with Nessus](#) |
-| Log Analysis (Basic) | [Static APK Analysis](#) |
+| Vulnerability Scanning | [Vulnerability Assessment](#) |
+| Log Analysis (Basic) | [Static Log Analysis](#) |
 
 ---
 
