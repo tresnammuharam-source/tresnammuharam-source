@@ -77,7 +77,7 @@ Self-Confidence Scale :
 ---
 
 ## 📜 Certifications
-![Pre-Security]([https://img.shields.io/badge/Security%2B-red?style=flat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QEUH9RYIGW.pdf))
+[![Security+](https://img.shields.io/badge/Security%2B-red?style=flat)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QEUH9RYIGW.pdf)
 
 ---
 
