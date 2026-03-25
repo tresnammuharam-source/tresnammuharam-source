@@ -83,7 +83,7 @@ Self-Confidence Scale :
 
 ## 🚀 Projects
 
-- [Pre-Security in TryHackMe](#) ![status](https://img.shields.io/badge/status-done-brightgreen)
+- [Pre-Security in TryHackMe](https://tryhackme.com/path/outline/presecurity) ![status](https://img.shields.io/badge/status-done-brightgreen)
 - Cyber-Security 101 in TryHackMe ![status](https://img.shields.io/badge/status-processing-orange)
 
 ---
@@ -104,8 +104,8 @@ Self-Confidence Scale :
 ---
 
 ## 📜 Certifications
-- [Certification Name]
-- [Year]
+- [Pre-Security (2026)]([https://tryhackme.com/path/outline/presecurity](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QEUH9RYIGW.pdf))
+- [QWP](#)
 
 ---
 
