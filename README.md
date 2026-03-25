@@ -55,18 +55,21 @@ Self-Confidence Scale :
 
 ## 🛠️ Skills
 
-| Hard Skill | Associated Project |
+| Hard Skill | Evidence |
 |------|------------------|
 | Vulnerability Scanning | [Vulnerability Assessment](#) |
 | Log Analysis (Basic) | [Dinamic Log Analysis](#) |
+| Prompt Enginering | [prompt enginer](#) |
 
 --
 
-| Soft Skill | Associated Project |
+| Soft Skill | Validation |
 |------|------------------|
 | Time Management | [concept time management](#) |
 | Financial Planner | [financial awareness](#) |
 | Leadership | [concept leadership](#) |
+| Communication | [communication](#) |
+| Trainer | [trainer skill](#) |
 
 ---
 
