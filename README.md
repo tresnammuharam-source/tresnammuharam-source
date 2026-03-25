@@ -58,7 +58,7 @@ Self-Confidence Scale :
 | Skill | Associated Project |
 |------|------------------|
 | Vulnerability Scanning | [Vulnerability Assessment](#) |
-| Log Analysis (Basic) | [Static Log Analysis](#) |
+| Log Analysis (Basic) | [Dinamic Log Analysis](#) |
 
 ---
 
