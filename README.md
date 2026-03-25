@@ -83,12 +83,8 @@ Self-Confidence Scale :
 
 ## 🚀 Projects
 
-- [CTF Walkthrough](#) ![status](https://img.shields.io/badge/status-done-brightgreen)
-- [Vulnerability Assessment and Management with Nessus](#) ![status](https://img.shields.io/badge/status-done-brightgreen)
-- [Web App Pentest with Burp Suite](#) ![status](https://img.shields.io/badge/status-done-brightgreen)
-- [Log Parsing and Alert Automation with Python](#) ![status](https://img.shields.io/badge/status-done-brightgreen)
-- Android Pentesting Lab (AVD + Burp + Frida) ![status](https://img.shields.io/badge/status-processing-orange)
-- Static APK Malware Analysis (MobSF + JADX) ![status](https://img.shields.io/badge/status-not--started-lightgrey)
+- [Pre-Security in TryHackMe](#) ![status](https://img.shields.io/badge/status-done-brightgreen)
+- Cyber-Security 101 in TryHackMe ![status](https://img.shields.io/badge/status-processing-orange)
 
 ---
 
