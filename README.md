@@ -16,11 +16,40 @@ I am passionate about cybersecurity and committed to continuously developing my 
 
 ---
 
-## 🎓 Education
-- Univ : Institut Pertanian Bogor
-- Major : Applied Meteorology
-- Degree : Bachelor of Science
-- Year : 2011 - 2015
+## 🎓 Language
+
+| Human Language | self-confidence scale |
+|----------------|:------------------:|
+| Sundanese | scale-5 |
+| Indonesia | scale-5 |
+| English | scale-4 |
+| Japan | scale-3 |
+| Korean | scale-2 |
+| Arabic | scale-2 |
+| Javanese | scale-3 |
+
+
+| Computer Language | self-confidence scale |
+|-------------------|:------------------:|
+| SQL | scale-4 |
+| phyton | scale-3 |
+| html | scale-2 |
+| CSS | scale-1 |
+| javascript | scale-1 |
+
+
+
+Self-Confidence Scale :
+
+1 - Just Know Basic (sekadar tahu dasar)
+
+2 - Low Confidance (tertarik, tapi belum pede)
+
+3 - Moderate Confidence (cukup yakin, bisa melakukan dengan bantuan)
+
+4 - High Confidence (yakin dan cukup mandiri)
+
+5 - Very Confident (sangat yakin, sudah expert/mahir)
 
 ---
 
@@ -50,6 +79,14 @@ I am passionate about cybersecurity and committed to continuously developing my 
 - [Job / Internship / Organization]
 - [Role]
 - [Year]
+
+---
+
+## 🎓 Education
+- Univ : Institut Pertanian Bogor
+- Major : Applied Meteorology
+- Degree : Bachelor of Science
+- Year : 2011 - 2015
 
 ---
 
