@@ -46,10 +46,23 @@ I am passionate about cybersecurity and committed to continuously developing my 
 
 ---
 
+## 💼 Experience
+- [Job / Internship / Organization]
+- [Role]
+- [Year]
+
+---
+
+## 📜 Certifications
+- [Certification Name]
+- [Year]
+
+---
+
 ## 📫 Contact
-- 📧 Email: your-email@gmail.com  
-- 💼 LinkedIn: your-linkedin  
-- 💻 GitHub: https://github.com/yourusername  
+- 📧 Email: tresna.mochamad.m@gmail.com 
+- 💼 LinkedIn: www.linkedin.com/in/tresna-m-muharam  
+- 💻 GitHub: https://github.com/tresnammuharam
 
 ---
 
