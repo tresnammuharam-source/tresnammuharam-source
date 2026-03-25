@@ -74,7 +74,7 @@ Self-Confidence Scale :
 ## 🚀 Projects
 
 - [Pre-Security in TryHackMe](https://tryhackme.com/path/outline/presecurity) ![status](https://img.shields.io/badge/status-done-brightgreen)
-- Cyber-Security 101 in TryHackMe ![status](https://img.shields.io/badge/status-processing-orange)
+- [Cyber-Security 101 in TryHackMe](https://github.com/tresnammuharam-source/my_ethical_hacking) ![status](https://img.shields.io/badge/status-processing-orange)
 
 ---
 
