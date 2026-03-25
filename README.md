@@ -76,11 +76,6 @@ Self-Confidence Scale :
 
 ---
 
-## 📜 Certifications
-[![Security+](https://img.shields.io/badge/Security%2B-red?style=flat)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QEUH9RYIGW.pdf)
-
----
-
 ## 🚀 Projects
 
 - [Pre-Security in TryHackMe](https://tryhackme.com/path/outline/presecurity) ![status](https://img.shields.io/badge/status-done-brightgreen)
@@ -95,17 +90,18 @@ Self-Confidence Scale :
 
 ---
 
+## 📜 Certifications
+- [Pre-Security_2026]([https://tryhackme.com/path/outline/presecurity](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QEUH9RYIGW.pdf))
+- [QWP](#)
+- [![Security+](https://img.shields.io/badge/Security%2B-red?style=flat)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QEUH9RYIGW.pdf)
+
+---
+
 ## 🎓 Education
 - Univ : Institut Pertanian Bogor
 - Major : Applied Meteorology
 - Degree : Bachelor of Science
 - Year : 2011 - 2015
-
----
-
-## 📜 Certifications
-- [Pre-Security (2026)]([https://tryhackme.com/path/outline/presecurity](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QEUH9RYIGW.pdf))
-- [QWP](#)
 
 ---
 
