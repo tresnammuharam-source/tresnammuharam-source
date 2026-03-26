@@ -79,6 +79,8 @@ Self-Confidence Scale :
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=flat)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-blue?style=flat)
 ![VMware](https://img.shields.io/badge/VMware-grey?style=flat)
+![Excel](https://img.shields.io/badge/Excel-Advanced-brightgreen)
+![Excel](https://img.shields.io/badge/VBA-217346)
 
 ---
 
@@ -86,13 +88,6 @@ Self-Confidence Scale :
 
 - [Pre-Security in TryHackMe](https://tryhackme.com/path/outline/presecurity) ![status](https://img.shields.io/badge/status-done-brightgreen)
 - [Cyber-Security 101 in TryHackMe](https://github.com/tresnammuharam-source/my_ethical_hacking) ![status](https://img.shields.io/badge/status-processing-orange)
-
----
-
-## 💼 Experience
-- [Job / Internship / Organization]
-- [Role]
-- [Year]
 
 ---
 
