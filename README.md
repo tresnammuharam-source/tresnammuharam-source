@@ -60,6 +60,8 @@ Self-Confidence Scale :
 | Vulnerability Scanning | [Vulnerability Assessment](#) |
 | Log Analysis (Basic) | [Dinamic Log Analysis](#) |
 | Prompt Enginering | [prompt enginer](#) |
+| Data Visualization | [Data_Support](#) |
+
 
 --
 
@@ -70,6 +72,9 @@ Self-Confidence Scale :
 | Leadership | [concept leadership](#) |
 | Communication | [communication](#) |
 | Trainer | [trainer skill](#) |
+| Business Analyst | [Lending_Analyst](#) |
+| Collection Analyst | [Collection_Support](#) |
+
 
 ---
 
