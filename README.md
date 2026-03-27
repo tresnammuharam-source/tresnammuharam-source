@@ -114,7 +114,7 @@ Self-Confidence Scale :
 - 📧 Email: tresna.mochamad.m@gmail.com 
 - 💼 LinkedIn: www.linkedin.com/in/tresna-m-muharam  
 - 💻 GitHub: https://github.com/tresnammuharam
-- 📜 Doc_CV: 
+- 📜 Doc_CV: https://drive.google.com/drive/folders/1KYRs9fxciHVQPTgI5FSxiYMuD2IixJ4Q?usp=drive_link
 
 ---
 
