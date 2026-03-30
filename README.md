@@ -98,7 +98,7 @@ Self-Confidence Scale :
 
 ## 📜 Certifications
 - [SEC0_(2026)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QEUH9RYIGW.pdf)
-- [QWP](#)
+- [QWP_(2024)](#)
 
 ---
 
