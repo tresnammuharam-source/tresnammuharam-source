@@ -105,6 +105,7 @@ Self-Confidence Scale :
 ![Asana](https://img.shields.io/badge/Asana-fc636b)
 ![Jira](https://img.shields.io/badge/Jira-1868DB)
 ![Slack](https://img.shields.io/badge/Slack-36C5F0)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-FF8C00)
 
 ---
 
