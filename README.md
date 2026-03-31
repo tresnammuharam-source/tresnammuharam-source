@@ -17,11 +17,11 @@ I am passionate about cybersecurity and committed to continuously developing my 
 If you see looking for someone to manage your security team's workflow. With my background in Operations Management and my current focus on Cybersecurity (SOC/Network Security), I can ensure your technical projects stay on schedule while understanding the technical requirements your team faces daily.
 
 Service:
-1. **Security Audit Coordination**: Mengelola jadwal dan dokumentasi untuk proses audit keamanan atau penetrasi testing (PenTest).
-2. **Policy & Documentation Writing**: Membuat dokumen kebijakan keamanan (SOP) untuk perusahaan kecil/menengah.
-3. **Compliance Management**: Membantu perusahaan memastikan mereka mengikuti standar keamanan (seperti ISO 27001 atau regulasi data pribadi) secara administratif.
-4. **Vulnerability Management Reporting**: Mengolah hasil temuan teknis dari tool pemindaian keamanan menjadi laporan progres.
-
+1. **Security Audit Coordination**: _Mengelola jadwal dan dokumentasi untuk proses audit keamanan atau penetrasi testing (PenTest)._
+2. **Policy & Documentation Writing**: _Membuat dokumen kebijakan keamanan (SOP) untuk perusahaan kecil/menengah._
+3. **Compliance Management**: _Membantu perusahaan memastikan mereka mengikuti standar keamanan (seperti ISO 27001 atau regulasi data pribadi) secara administratif._
+4. **Vulnerability Management Reporting**: _Mengolah hasil temuan teknis dari tool pemindaian keamanan menjadi laporan progres.
+_
 ---
 
 ## 🎓 Language
