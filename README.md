@@ -135,7 +135,7 @@ Self-Confidence Scale :
 - 💻 GitHub: https://github.com/tresnammuharam
 - 📜 Doc_CV: https://drive.google.com/drive/folders/1KYRs9fxciHVQPTgI5FSxiYMuD2IixJ4Q?usp=drive_link
 
-
+Let’s discuss how I can bring structure and security to your next project
 ---
 
 ✨ *“Learning by doing, growing by building.”*
