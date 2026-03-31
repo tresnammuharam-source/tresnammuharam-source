@@ -7,7 +7,7 @@ This repository contains my Curriculum Vitae (CV), presenting my education, skil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/tresna-m-muharam)
 
-I'm a self-driven learner with a strong interest in project manajement and cybersecurity for manage problem-solving. I enjoy exploring technical challenges, building hands-on projects, and growing my skills through practical experience.
+I'm a self-driven learner with a strong interest in project management and cybersecurity for manage problem-solving. I enjoy exploring technical challenges, building hands-on projects, and growing my skills through practical experience.
 
 ---
 
