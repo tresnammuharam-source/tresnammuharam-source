@@ -7,12 +7,20 @@ This repository contains my Curriculum Vitae (CV), presenting my education, skil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/tresna-m-muharam)
 
-I'm a self-driven learner with a strong interest in business analytict, cybersecurity and continuous problem-solving. I enjoy exploring technical challenges, building hands-on projects, and growing my skills through practical experience.
+I'm a self-driven learner with a strong interest in project manajement, cybersecurity and continuous problem-solving. I enjoy exploring technical challenges, building hands-on projects, and growing my skills through practical experience.
 
 ---
 
 ## 🎯 Objective
 I am passionate about cybersecurity and committed to continuously developing my technical and analytical skills. My goal is to build a career in cybersecurity by contributing to real-world projects and gaining hands-on experience.
+
+If you see looking for someone to manage your security team's workflow. With my background in Operations Management and my current focus on Cybersecurity (SOC/Network Security), I can ensure your technical projects stay on schedule while understanding the technical requirements your team faces daily.
+
+Service:
+1. **Security Audit Coordination**: Mengelola jadwal dan dokumentasi untuk proses audit keamanan atau penetrasi testing (PenTest).
+2. **Policy & Documentation Writing**: Membuat dokumen kebijakan keamanan (SOP) untuk perusahaan kecil/menengah.
+3. **Compliance Management**: Membantu perusahaan memastikan mereka mengikuti standar keamanan (seperti ISO 27001 atau regulasi data pribadi) secara administratif.
+4. **Vulnerability Management Reporting**: Mengolah hasil temuan teknis dari tool pemindaian keamanan menjadi laporan progres.
 
 ---
 
