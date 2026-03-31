@@ -75,6 +75,7 @@ Self-Confidence Scale :
 | Soft Skill | Validation |
 |------|------------------|
 | Time Management | [concept time management](#) |
+| Project Management | [concept project management](#)
 | Financial Planner | [financial awareness](#) |
 | Leadership | [concept leadership](#) |
 | Communication | [communication](#) |
