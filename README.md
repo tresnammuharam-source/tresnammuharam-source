@@ -17,10 +17,10 @@ If you see looking for someone to manage your security team's workflow. With my 
 
 _**What I bring to your project:**_
 
-1. Cybersecurity Awareness: Currently deepening my expertise in network security, ethical hacking, and vulnerability management. I am comfortable with Linux environments and understand the technical requirements of security teams.
-2. Operational Precision: Expertise in calculating Cost of Goods Sold (COGS/HPP), managing profit margins, and optimizing workflows to ensure projects stay within budget and on schedule.
-3. Technical Documentation: Skilled in translating complex technical findings into clear, actionable reports for management and stakeholders.
-4. Agile Coordination: Proficient in using tools like Jira, Trello, and Asana to track progress, mitigate risks, and ensure seamless team communication.
+1. **Cybersecurity Awareness**: Currently deepening my expertise in network security, ethical hacking, and vulnerability management. I am comfortable with Linux environments and understand the technical requirements of security teams.
+2. **Operational Precision**: Expertise in calculating Cost of Goods Sold (COGS/HPP), managing profit margins, and optimizing workflows to ensure projects stay within budget and on schedule.
+3. **Technical Documentation**: Skilled in translating complex technical findings into clear, actionable reports for management and stakeholders.
+4. **Agile Coordination**: Proficient in using tools like Jira, Trello, and Asana to track progress, mitigate risks, and ensure seamless team communication.
 
 _**Services I Provide:**_
 1. **Security Audit Coordination**: _Mengelola jadwal dan dokumentasi untuk proses audit keamanan atau penetrasi testing (PenTest)._
