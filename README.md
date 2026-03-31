@@ -15,14 +15,14 @@ I am passionate about cybersecurity and committed to continuously developing my 
 
 If you see looking for someone to manage your security team's workflow. With my background in Operations Management and my current focus on Cybersecurity (SOC/Network Security), I can ensure your technical projects stay on schedule while understanding the technical requirements your team faces daily.
 
-What I bring to your project:
+_**What I bring to your project:**_
 
 1. Cybersecurity Awareness: Currently deepening my expertise in network security, ethical hacking, and vulnerability management. I am comfortable with Linux environments and understand the technical requirements of security teams.
 2. Operational Precision: Expertise in calculating Cost of Goods Sold (COGS/HPP), managing profit margins, and optimizing workflows to ensure projects stay within budget and on schedule.
 3. Technical Documentation: Skilled in translating complex technical findings into clear, actionable reports for management and stakeholders.
 4. Agile Coordination: Proficient in using tools like Jira, Trello, and Asana to track progress, mitigate risks, and ensure seamless team communication.
 
-Services I Provide:
+_**Services I Provide:**_
 1. **Security Audit Coordination**: _Mengelola jadwal dan dokumentasi untuk proses audit keamanan atau penetrasi testing (PenTest)._
 2. **Policy & Documentation Writing**: _Membuat dokumen kebijakan keamanan (SOP) untuk perusahaan kecil/menengah._
 3. **Compliance Management**: _Membantu perusahaan memastikan mereka mengikuti standar keamanan (seperti ISO 27001 atau regulasi data pribadi) secara administratif._
