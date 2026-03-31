@@ -88,7 +88,7 @@ Self-Confidence Scale :
 
 ## 🧰 Tools
 
-### Operating Systems & Virtualization
+### Operating Systems & Management
 ![Windows](https://img.shields.io/badge/Windows-bule?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=flat)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-blue?style=flat)
