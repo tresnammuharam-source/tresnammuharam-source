@@ -81,11 +81,14 @@ Self-Confidence Scale :
 ## 🧰 Tools
 
 ### Operating Systems & Virtualization
+![Windows](https://img.shields.io/badge/Windows-bule?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=flat)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-blue?style=flat)
 ![VMware](https://img.shields.io/badge/VMware-grey?style=flat)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-brightgreen)
-![Excel](https://img.shields.io/badge/VBA-217346)
+![VBA](https://img.shields.io/badge/VBA-217346)
+![Asana](https://img.shields.io/badge/Asana-fc636b)
+![Jira](https://img.shields.io/badge/Jira-1868DB)
 
 ---
 
