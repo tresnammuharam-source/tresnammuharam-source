@@ -5,7 +5,6 @@ This repository contains my Curriculum Vitae (CV), presenting my education, skil
 
 # Hello, I'm Tresna M Muharam 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/tresna-m-muharam)
 
 I'm a self-driven learner with a strong interest in project management and cybersecurity for manage problem-solving. I enjoy exploring technical challenges, building hands-on projects, and growing my skills through practical experience.
 
@@ -124,9 +123,10 @@ Self-Confidence Scale :
 
 ## 📫 Contact
 - 📧 Email: tresna.mochamad.m@gmail.com 
-- 💼 LinkedIn: www.linkedin.com/in/tresna-m-muharam  
+- 💼 LinkedIn: www.linkedin.com/in/tresna-m-muharam  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/tresna-m-muharam)
 - 💻 GitHub: https://github.com/tresnammuharam
 - 📜 Doc_CV: https://drive.google.com/drive/folders/1KYRs9fxciHVQPTgI5FSxiYMuD2IixJ4Q?usp=drive_link
+
 
 ---
 
