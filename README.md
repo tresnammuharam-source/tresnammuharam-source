@@ -20,8 +20,8 @@ Service:
 1. **Security Audit Coordination**: _Mengelola jadwal dan dokumentasi untuk proses audit keamanan atau penetrasi testing (PenTest)._
 2. **Policy & Documentation Writing**: _Membuat dokumen kebijakan keamanan (SOP) untuk perusahaan kecil/menengah._
 3. **Compliance Management**: _Membantu perusahaan memastikan mereka mengikuti standar keamanan (seperti ISO 27001 atau regulasi data pribadi) secara administratif._
-4. **Vulnerability Management Reporting**: _Mengolah hasil temuan teknis dari tool pemindaian keamanan menjadi laporan progres.
-_
+4. **Vulnerability Management Reporting**: _Mengolah hasil temuan teknis dari tool pemindaian keamanan menjadi laporan progres._
+
 ---
 
 ## 🎓 Language
