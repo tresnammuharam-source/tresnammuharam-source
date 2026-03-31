@@ -97,6 +97,7 @@ Self-Confidence Scale :
 ![VBA](https://img.shields.io/badge/VBA-217346)
 ![Asana](https://img.shields.io/badge/Asana-fc636b)
 ![Jira](https://img.shields.io/badge/Jira-1868DB)
+![Slack](https://img.shields.io/badge/Slack-36C5F0)
 
 ---
 
