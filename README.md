@@ -6,27 +6,26 @@ This repository contains my Curriculum Vitae (CV), presenting my education, skil
 # Hello, I'm Tresna M Muharam 👋
 
 
-I'm a self-driven learner with a strong interest in project management and cybersecurity for manage problem-solving. Bridging the Gap Between Technical Security and Operational Excellence. I enjoy exploring technical challenges, building hands-on projects, and growing my skills through practical experience.
+I am a self-driven Generalist Researcher specializing in the interconnected ecosystem of FinTech GRC (Governance, Risk, and Compliance). I bridge the critical gap between technical security and financial operational excellence. Rather than viewing departments in isolation, I connect the dots across Lending, Collections, Quality Assurance, Compliance, Risk, Cybersecurity, and Audit to identify systemic vulnerabilities and drive holistic problem-solving.
 
 ---
 
 ## 🎯 Objective
-I am passionate about cybersecurity and committed to continuously developing my technical and analytical skills. My goal is to build a career in cybersecurity by contributing to real-world projects and gaining hands-on experience.
-
-If you see looking for someone to manage your security team's workflow. With my background in Operations Management and my current focus on Cybersecurity (SOC/Network Security), I can ensure your technical projects stay on schedule while understanding the technical requirements your team faces daily.
+To leverage my multidisciplinary background as a Generalist Researcher / Risk Consultant, helping organizations build resilient operational frameworks where financial growth, regulatory compliance, and cybersecurity hardening work in perfect harmony.
 
 _**What I bring to your project:**_
 
-1. **Cybersecurity Awareness**: Currently deepening my expertise in network security, ethical hacking, and vulnerability management. I am comfortable with Linux environments and understand the technical requirements of security teams.
-2. **Operational Precision**: Expertise in calculating Cost of Goods Sold (COGS/HPP), managing profit margins, and optimizing workflows to ensure projects stay within budget and on schedule.
-3. **Technical Documentation**: Skilled in translating complex technical findings into clear, actionable reports for management and stakeholders.
-4. **Agile Coordination**: Proficient in using tools like Jira, Trello, and Asana to track progress, mitigate risks, and ensure seamless team communication.
+1. **Cross-Disciplinary Synthesis (The Helicopter View)**: The ability to analyze how a cybersecurity vulnerability or a QA oversight directly impacts collection performance, lending risk, and regulatory compliance (OJK/ISO standards).
+2. **Root-Cause Investigation (The Microscope View)**: Experienced in deep-diving into operational logs, audit trails, and financial data to pinpoint the exact "micro-bacterial" flaws causing systemic leakage or fraud.
+3. **Cybersecurity & Technical Literacy**: Deepening practical expertise in SOC operations, network security, Linux environments, and vulnerability management to communicate seamlessly with technical teams.
+4. **Operational & Financial Precision**: Strong background in operations management, Budgeting Strategy, Cost Alocation, and workflow streamlining.
+5. **Technical Documentation & GRC Translation**: Skilled in translating dense technical findings, audit results, and vulnerability scans into clear, actionable, risk-mitigated reports for executive management.
 
 _**Services I Provide:**_
-1. **Security Audit Coordination**: _Mengelola jadwal dan dokumentasi untuk proses audit keamanan atau penetrasi testing (PenTest)._
-2. **Policy & Documentation Writing**: _Membuat dokumen kebijakan keamanan (SOP) untuk perusahaan kecil/menengah._
-3. **Compliance Management**: _Membantu perusahaan memastikan mereka mengikuti standar keamanan (seperti ISO 27001 atau regulasi data pribadi) secara administratif._
-4. **Vulnerability Management Reporting**: _Mengolah hasil temuan teknis dari tool pemindaian keamanan menjadi laporan progres._
+1. **Integrated Risk & Security Auditing**: Conducting holistic reviews of your business processes, mapping how technical security controls align with financial risk and operational compliance.
+2. **Policy, SOP & GRC Documentation**: Developing comprehensive security policies and operational SOPs tailored for FinTech/SMEs, ensuring compliance with frameworks like ISO 27001 or data privacy regulations.
+3. **Vulnerability & Fraud Risk Management**: Analyzing technical scanning reports and fraud trends to create integrated progression reports that link technical fixes to financial loss prevention.
+4. **Operational QA & Workflow Optimization**: Reviewing lending and collection workflows using Jira, Trello, or Asana to eliminate operational bottlenecks and mitigate internal risks.
 
 ---
 
