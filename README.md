@@ -23,7 +23,7 @@ _**What I bring to your project:**_
 
 _**Services I Provide:**_
 1. **Integrated Risk & Security Auditing**: Conducting holistic reviews of your business processes, mapping how technical security controls align with financial risk and operational compliance.
-2. **Policy, SOP & GRC Documentation**: Developing comprehensive security policies and operational SOPs tailored for FinTech/SMEs, ensuring compliance with frameworks like ISO 27001 or data privacy regulations.
+2. **Policy, SOP & GRC Documentation**: Developing comprehensive security policies and operational SOPs tailored for FinTech/SMEs, ensuring compliance with frameworks like ISO or data privacy regulations.
 3. **Vulnerability & Fraud Risk Management**: Analyzing technical scanning reports and fraud trends to create integrated progression reports that link technical fixes to financial loss prevention.
 4. **Operational QA & Workflow Optimization**: Reviewing lending and collection workflows using Jira, Trello, or Asana to eliminate operational bottlenecks and mitigate internal risks.
 
