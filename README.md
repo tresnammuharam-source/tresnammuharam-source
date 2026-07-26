@@ -6,7 +6,7 @@ This repository contains my Curriculum Vitae (CV), presenting my education, skil
 # Hello, I'm Tresna M Muharam 👋
 
 
-I am a self-driven Generalist Researcher specializing in the interconnected ecosystem of FinTech GRC (Governance, Risk, and Compliance). I bridge the critical gap between technical security and financial operational excellence. Rather than viewing departments in isolation, I connect the dots across Lending, Collections, Quality Assurance, Compliance, Risk, Cybersecurity, and Audit to identify systemic vulnerabilities and drive holistic problem-solving.
+I am a self-driven Governance specializing in the interconnected ecosystem of FinTech GRC (Governance, Risk, and Compliance). I bridge the critical gap between technical security and financial operational excellence. Rather than viewing departments in isolation, I connect the dots across Lending, Collections, Quality Assurance, Compliance, Risk, Cybersecurity, and Audit to identify systemic vulnerabilities and drive holistic problem-solving.
 
 ---
 
