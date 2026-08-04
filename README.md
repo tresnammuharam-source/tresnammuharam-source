@@ -112,13 +112,14 @@ Self-Confidence Scale :
 ## 🚀 Projects
 
 - [Pre-Security in TryHackMe](https://tryhackme.com/path/outline/presecurity) ![status](https://img.shields.io/badge/status-done-brightgreen)
-- [Cyber-Security 101 in TryHackMe](https://github.com/tresnammuharam-source/my_ethical_hacking) ![status](https://img.shields.io/badge/status-processing-orange)
+- [Cyber-Security 101 in TryHackMe](https://github.com/tresnammuharam-source/my_ethical_hacking) ![status](https://img.shields.io/badge/status-done-brightgreen)
+- [Governance_Framework_for_P2P_Lending](#) ![status](https://img.shields.io/badge/status-processing-orange)
 
 ---
 
 ## 📜 Certifications
 - [SEC0_(2026)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QEUH9RYIGW.pdf)
-- [QWP_(2024)](#)
+- [QWP_(2024)](https://drive.google.com/file/d/1CO03AqnmEmsYiu71rQTPDqm5lyOYzQF1/view?usp=sharing)
 
 ---
 
@@ -134,7 +135,7 @@ Self-Confidence Scale :
 - 📧 Email: tresna.mochamad.m@gmail.com 
 - 💼 LinkedIn: www.linkedin.com/in/tresna-m-muharam  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/tresna-m-muharam)
 - 💻 GitHub: https://github.com/tresnammuharam
-- 📜 Doc_CV: https://drive.google.com/drive/folders/1KYRs9fxciHVQPTgI5FSxiYMuD2IixJ4Q?usp=drive_link
+- 📜 Doc_CV: https://drive.google.com/file/d/1XtzG7sYlkOwqoFEc2XhpDrp5caWN8bf8/view?usp=sharing
 
 Let’s discuss how I can bring structure and security to your next project
 ---
