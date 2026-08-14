@@ -29,43 +29,6 @@ _**Services I Provide:**_
 
 ---
 
-## 🎓 Language
-
-| Human Language | self-confidence scale |
-|----------------|:------------------:|
-| Sundanese | scale-5 |
-| Indonesia | scale-5 |
-| English | scale-4 |
-| Japan | scale-3 |
-| Korean | scale-2 |
-| Arabic | scale-2 |
-| Javanese | scale-3 |
-
---
-| Computer Language | self-confidence scale |
-|-------------------|:------------------:|
-| SQL | scale-4 |
-| phyton | scale-3 |
-| html | scale-2 |
-| CSS | scale-1 |
-| javascript | scale-1 |
-
---
-
-Self-Confidence Scale :
-
-1 - Just Know Basic (sekadar tahu dasar)
-
-2 - Low Confidance (tertarik, tapi belum pede)
-
-3 - Moderate Confidence (cukup yakin, bisa melakukan dengan bantuan)
-
-4 - High Confidence (yakin dan cukup mandiri)
-
-5 - Very Confident (sangat yakin, sudah expert/mahir)
-
----
-
 ## 🛠️ Skills
 
 | Hard Skill | Evidence |
@@ -120,6 +83,39 @@ Self-Confidence Scale :
 ## 📜 Certifications
 - [SEC0_(2026)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QEUH9RYIGW.pdf)
 - [QWP_(2024)](https://drive.google.com/file/d/1CO03AqnmEmsYiu71rQTPDqm5lyOYzQF1/view?usp=sharing)
+
+---
+
+## 🎓 Language
+
+| Human Language | self-confidence scale |
+|----------------|:------------------:|
+| Sundanese | scale-5 |
+| Indonesia | scale-5 |
+| English | scale-4 |
+| Japan | scale-3 |
+| Korean | scale-2 |
+
+--
+| Computer Language | self-confidence scale |
+|-------------------|:------------------:|
+| SQL | scale-4 |
+| phyton | scale-3 |
+| VBA / Power Query Excel | scale-2 |
+
+--
+
+Self-Confidence Scale :
+
+1 - Just Know Basic (sekadar tahu dasar)
+
+2 - Low Confidance (tertarik, tapi belum pede)
+
+3 - Moderate Confidence (cukup yakin, bisa melakukan dengan bantuan)
+
+4 - High Confidence (yakin dan cukup mandiri)
+
+5 - Very Confident (sangat yakin, sudah expert/mahir)
 
 ---
 
