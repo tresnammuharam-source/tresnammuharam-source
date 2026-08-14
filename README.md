@@ -37,6 +37,8 @@ _**Services I Provide:**_
 | Log Analysis (Basic) | [Dinamic Log Analysis](#) |
 | Prompt Enginering | [prompt enginer](#) |
 | Data Visualization | [Data_Support](#) |
+| SDM Management | [HR_Management](#) |
+| Collection Cost | [cost_collection](#) |
 
 
 --
